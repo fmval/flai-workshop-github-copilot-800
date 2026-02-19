@@ -1,0 +1,6 @@
+{
+  "python.defaultInterpreterPath": "${workspaceFolder}/octofit-tracker/backend/venv/bin/python",
+  "python.terminal.activateEnvironment": true,
+"python.envFile": "${workspaceFolder}/.env",
+"python-envs.pythonProjects": []
+}
